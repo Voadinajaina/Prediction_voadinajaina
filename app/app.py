@@ -12,7 +12,7 @@ load_dotenv()
 DATA_PATH = r'C:\Users\voadi\Documents\Voady\test-Data-engineer-voady\data\predictions.csv'
 FAISS_INDEX_PATH = r'C:\Users\voadi\Documents\Voady\test-Data-engineer-voady\data\faiss_index'
 
-st.title("🤖 Assistant Logistique")
+st.title("Assistant Logistique")
 
 @st.cache_resource
 def load_vectorstore():
@@ -65,19 +65,25 @@ if question:
                 {
                     "role": "system",
                     "content": """Tu es un assistant logistique expert.
-Réponds toujours en français de manière claire et concise.
-Utilise TOUTES les villes disponibles pour comparer et répondre.
-Ne te limite pas à une seule ville."""
+                    Réponds toujours en français de manière claire et concise.
+                    Utilise TOUTES les villes disponibles pour comparer et répondre.
+
+                    Règle importante : convertis toujours les numéros de mois en lettres :
+                    1 = Janvier, 2 = Février, 3 = Mars, 4 = Avril,
+                    5 = Mai, 6 = Juin, 7 = Juillet, 8 = Août,
+                    9 = Septembre, 10 = Octobre, 11 = Novembre, 12 = Décembre.
+
+                    Ne jamais afficher un numéro de mois dans ta réponse."""
                 },
                 {
                     "role": "user",
                     "content": f"""Voici le résumé global de toutes les villes :
-{global_context}
+                {global_context}
 
-Voici les données détaillées pertinentes :
-{semantic_context}
+                Voici les données détaillées pertinentes :
+                {semantic_context}
 
-Question : {question}"""
+                Question : {question}"""
                 }
             ],
             max_tokens=800
