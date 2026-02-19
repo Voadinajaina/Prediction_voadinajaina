@@ -1,0 +1,241 @@
+location,Product,Month,predicted_demand,score_demande,zone,lat,lon
+Atlanta (GA),AAA Batteries (4-pack),1,141,15.54054054054054,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),2,153,16.89189189189189,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),3,176,19.48198198198198,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),4,213,23.64864864864865,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),5,209,23.1981981981982,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),6,173,19.144144144144143,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),7,161,17.792792792792792,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),8,161,17.792792792792792,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),9,159,17.56756756756757,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),10,211,23.423423423423422,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),11,201,22.2972972972973,Zone Basse,33.74,-84.38
+Atlanta (GA),AAA Batteries (4-pack),12,296,32.9954954954955,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,1,27,2.702702702702703,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,2,27,2.702702702702703,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,3,25,2.4774774774774775,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,4,25,2.4774774774774775,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,5,29,2.927927927927928,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,6,28,2.8153153153153156,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,7,28,2.8153153153153156,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,8,25,2.4774774774774775,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,9,24,2.364864864864865,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,10,33,3.3783783783783785,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,11,31,3.1531531531531534,Zone Basse,33.74,-84.38
+Atlanta (GA),ThinkPad Laptop,12,46,4.842342342342342,Zone Basse,33.74,-84.38
+Austin (TX),AAA Batteries (4-pack),1,135,14.864864864864865,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),2,139,15.315315315315315,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),3,142,15.653153153153152,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),4,152,16.77927927927928,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),5,167,18.46846846846847,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),6,119,13.063063063063062,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),7,114,12.5,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),8,128,14.076576576576576,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),9,127,13.963963963963963,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),10,195,21.62162162162162,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),11,169,18.693693693693692,Zone Basse,30.26,-97.74
+Austin (TX),AAA Batteries (4-pack),12,250,27.815315315315313,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,1,10,0.7882882882882883,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,2,12,1.0135135135135136,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,3,14,1.2387387387387387,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,4,16,1.4639639639639639,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,5,21,2.027027027027027,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,6,17,1.5765765765765765,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,7,15,1.3513513513513513,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,8,15,1.3513513513513513,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,9,14,1.2387387387387387,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,10,19,1.801801801801802,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,11,21,2.027027027027027,Zone Basse,30.26,-97.74
+Austin (TX),ThinkPad Laptop,12,32,3.265765765765766,Zone Basse,30.26,-97.74
+Boston (MA),AAA Batteries (4-pack),1,187,20.72072072072072,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),2,204,22.635135135135133,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),3,265,29.504504504504503,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),4,315,35.13513513513514,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),5,312,34.7972972972973,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),6,265,29.504504504504503,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),7,260,28.94144144144144,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),8,256,28.49099099099099,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),9,252,28.04054054054054,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),10,347,38.73873873873874,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),11,334,37.27477477477478,Zone Basse,42.36,-71.05
+Boston (MA),AAA Batteries (4-pack),12,416,46.509009009009006,Zone Moyenne,42.36,-71.05
+Boston (MA),ThinkPad Laptop,1,23,2.2522522522522523,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,2,28,2.8153153153153156,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,3,42,4.391891891891892,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,4,43,4.504504504504505,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,5,41,4.2792792792792795,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,6,31,3.1531531531531534,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,7,29,2.927927927927928,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,8,30,3.040540540540541,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,9,27,2.702702702702703,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,10,34,3.490990990990991,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,11,37,3.8288288288288292,Zone Basse,42.36,-71.05
+Boston (MA),ThinkPad Laptop,12,53,5.63063063063063,Zone Basse,42.36,-71.05
+Dallas (TX),AAA Batteries (4-pack),1,144,15.878378378378379,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),2,161,17.792792792792792,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),3,179,19.81981981981982,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),4,205,22.74774774774775,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),5,242,26.914414414414413,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),6,185,20.495495495495494,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),7,176,19.48198198198198,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),8,175,19.36936936936937,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),9,176,19.48198198198198,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),10,249,27.7027027027027,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),11,266,29.617117117117118,Zone Basse,32.77,-96.79
+Dallas (TX),AAA Batteries (4-pack),12,382,42.68018018018018,Zone Moyenne,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,1,20,1.9144144144144146,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,2,25,2.4774774774774775,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,3,32,3.265765765765766,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,4,33,3.3783783783783785,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,5,35,3.6036036036036037,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,6,24,2.364864864864865,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,7,26,2.59009009009009,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,8,27,2.702702702702703,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,9,21,2.027027027027027,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,10,27,2.702702702702703,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,11,30,3.040540540540541,Zone Basse,32.77,-96.79
+Dallas (TX),ThinkPad Laptop,12,48,5.0675675675675675,Zone Basse,32.77,-96.79
+Los Angeles (CA),AAA Batteries (4-pack),1,321,35.810810810810814,Zone Basse,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),2,337,37.612612612612615,Zone Basse,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),3,415,46.3963963963964,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),4,470,52.590090090090094,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),5,453,50.67567567567568,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),6,366,40.87837837837838,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),7,351,39.189189189189186,Zone Basse,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),8,326,36.373873873873876,Zone Basse,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),9,330,36.82432432432432,Zone Basse,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),10,528,59.12162162162162,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),11,490,54.84234234234234,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),AAA Batteries (4-pack),12,569,63.73873873873873,Zone Moyenne,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,1,38,3.941441441441442,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,2,42,4.391891891891892,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,3,52,5.518018018018018,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,4,59,6.306306306306307,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,5,52,5.518018018018018,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,6,49,5.18018018018018,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,7,49,5.18018018018018,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,8,41,4.2792792792792795,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,9,46,4.842342342342342,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,10,66,7.094594594594595,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,11,62,6.6441441441441444,Zone Basse,34.05,-118.24
+Los Angeles (CA),ThinkPad Laptop,12,72,7.770270270270271,Zone Basse,34.05,-118.24
+New York City (NY),AAA Batteries (4-pack),1,252,28.04054054054054,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),2,259,28.82882882882883,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),3,331,36.93693693693694,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),4,378,42.229729729729726,Zone Moyenne,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),5,400,44.707207207207205,Zone Moyenne,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),6,352,39.3018018018018,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),7,328,36.5990990990991,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),8,308,34.346846846846844,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),9,288,32.0945945945946,Zone Basse,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),10,453,50.67567567567568,Zone Moyenne,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),11,434,48.53603603603604,Zone Moyenne,40.71,-74.0
+New York City (NY),AAA Batteries (4-pack),12,531,59.45945945945946,Zone Moyenne,40.71,-74.0
+New York City (NY),ThinkPad Laptop,1,31,3.1531531531531534,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,2,38,3.941441441441442,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,3,49,5.18018018018018,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,4,52,5.518018018018018,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,5,45,4.72972972972973,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,6,43,4.504504504504505,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,7,45,4.72972972972973,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,8,35,3.6036036036036037,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,9,39,4.054054054054054,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,10,54,5.743243243243244,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,11,57,6.081081081081082,Zone Basse,40.71,-74.0
+New York City (NY),ThinkPad Laptop,12,65,6.981981981981982,Zone Basse,40.71,-74.0
+Portland (ME),AAA Batteries (4-pack),1,26,2.59009009009009,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),2,37,3.8288288288288292,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),3,34,3.490990990990991,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),4,29,2.927927927927928,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),5,28,2.8153153153153156,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),6,37,3.8288288288288292,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),7,37,3.8288288288288292,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),8,23,2.2522522522522523,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),9,23,2.2522522522522523,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),10,68,7.31981981981982,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),11,70,7.545045045045045,Zone Basse,43.66,-70.25
+Portland (ME),AAA Batteries (4-pack),12,144,15.878378378378379,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,1,3,0.0,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,2,3,0.0,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,3,3,0.0,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,4,4,0.11261261261261263,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,5,7,0.4504504504504505,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,6,5,0.22522522522522526,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,7,4,0.11261261261261263,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,8,6,0.33783783783783783,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,9,4,0.11261261261261263,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,10,5,0.22522522522522526,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,11,5,0.22522522522522526,Zone Basse,43.66,-70.25
+Portland (ME),ThinkPad Laptop,12,9,0.6756756756756758,Zone Basse,43.66,-70.25
+Portland (OR),AAA Batteries (4-pack),1,121,13.288288288288287,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),2,127,13.963963963963963,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),3,141,15.54054054054054,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),4,147,16.216216216216214,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),5,148,16.32882882882883,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),6,138,15.202702702702702,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),7,130,14.301801801801801,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),8,132,14.527027027027026,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),9,162,17.905405405405403,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),10,187,20.72072072072072,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),11,180,19.93243243243243,Zone Basse,45.52,-122.67
+Portland (OR),AAA Batteries (4-pack),12,273,30.405405405405403,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,1,14,1.2387387387387387,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,2,15,1.3513513513513513,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,3,16,1.4639639639639639,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,4,16,1.4639639639639639,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,5,19,1.801801801801802,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,6,20,1.9144144144144146,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,7,19,1.801801801801802,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,8,15,1.3513513513513513,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,9,13,1.1261261261261262,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,10,20,1.9144144144144146,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,11,20,1.9144144144144146,Zone Basse,45.52,-122.67
+Portland (OR),ThinkPad Laptop,12,27,2.702702702702703,Zone Basse,45.52,-122.67
+San Francisco (CA),AAA Batteries (4-pack),1,481,53.828828828828826,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),2,497,55.630630630630634,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),3,558,62.5,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),4,679,76.12612612612612,Zone Haute,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),5,664,74.43693693693693,Zone Haute,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),6,561,62.83783783783784,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),7,575,64.41441441441441,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),8,503,56.306306306306304,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),9,467,52.252252252252255,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),10,531,59.45945945945946,Zone Moyenne,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),11,676,75.78828828828829,Zone Haute,37.77,-122.41
+San Francisco (CA),AAA Batteries (4-pack),12,891,100.0,Zone Haute,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,1,59,6.306306306306307,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,2,64,6.86936936936937,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,3,70,7.545045045045045,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,4,85,9.234234234234233,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,5,85,9.234234234234233,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,6,80,8.67117117117117,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,7,75,8.108108108108107,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,8,75,8.108108108108107,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,9,68,7.31981981981982,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,10,88,9.572072072072071,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,11,91,9.90990990990991,Zone Basse,37.77,-122.41
+San Francisco (CA),ThinkPad Laptop,12,106,11.599099099099098,Zone Basse,37.77,-122.41
+Seattle (WA),AAA Batteries (4-pack),1,139,15.315315315315315,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),2,157,17.34234234234234,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),3,176,19.48198198198198,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),4,198,21.95945945945946,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),5,214,23.76126126126126,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),6,211,23.423423423423422,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),7,183,20.27027027027027,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),8,180,19.93243243243243,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),9,156,17.22972972972973,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),10,252,28.04054054054054,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),11,279,31.08108108108108,Zone Basse,47.6,-122.33
+Seattle (WA),AAA Batteries (4-pack),12,456,51.013513513513516,Zone Moyenne,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,1,24,2.364864864864865,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,2,24,2.364864864864865,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,3,24,2.364864864864865,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,4,32,3.265765765765766,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,5,27,2.702702702702703,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,6,24,2.364864864864865,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,7,22,2.1396396396396398,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,8,21,2.027027027027027,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,9,19,1.801801801801802,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,10,25,2.4774774774774775,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,11,34,3.490990990990991,Zone Basse,47.6,-122.33
+Seattle (WA),ThinkPad Laptop,12,37,3.8288288288288292,Zone Basse,47.6,-122.33
