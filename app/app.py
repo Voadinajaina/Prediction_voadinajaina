@@ -47,15 +47,3 @@ Question : {question}"""
         
         st.write("### Réponse :")
         st.write(response.choices[0].message.content)
-```
-
----
-
-### `requirements.txt`
-```
-streamlit
-groq
-pandas
-langchain
-langchain-community
-python-dotenv
